@@ -1,0 +1,57 @@
+.header {
+    color: rgb(23, 2, 2);
+    font-size: 40px;
+    font-family: roboto;
+    border-color: black;
+    border-width: 0px;
+    background-color: rgb(155, 150, 150);
+    border-radius: px;
+    padding-top: 5px;
+}
+.car1:hover {
+    
+    transition: box-shadow 0.3s ease-in-out;
+    box-shadow: 4px 4px 10px rgba(11, 10, 10, 0.5);
+    border-radius: 10px;
+  }
+
+  .car2:hover {
+    
+    transition: box-shadow 0.3s ease-in-out;
+    box-shadow: 4px 4px 10px rgba(11, 10, 10, 0.5);
+    border-radius: 10px;
+  }
+  
+  .car3:hover {
+    
+    transition: box-shadow 0.3s ease-in-out;
+    box-shadow: 4px 4px 10px rgba(11, 10, 10, 0.5);
+    border-radius: 10px;
+  }
+
+  .car4:hover {
+    
+    transition: box-shadow 0.3s ease-in-out;
+    box-shadow: 4px 4px 10px rgba(11, 10, 10, 0.5);
+    border-radius: 10px;
+  }
+  
+  .car5:hover {
+    
+    transition: box-shadow 0.3s ease-in-out;
+    box-shadow: 4px 4px 10px rgba(11, 10, 10, 0.5);
+    border-radius: 10px;
+  }
+  .car6:hover {
+    
+    transition: box-shadow 0.3s ease-in-out;
+    box-shadow: 4px 4px 10px rgba(11, 10, 10, 0.5);
+    border-radius: 10px;
+  }
+  .cardetails{
+    font-style: bold;
+  }
+
+  
+  
+  
